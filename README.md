@@ -6,8 +6,8 @@
   [![Discord](https://img.shields.io/badge/Discord-Coming_Soon!-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/coming-soon)
   [![Twitter](https://img.shields.io/badge/Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stellargateway)
   
-  <h1>Transform Your AI Apps</h1>
-  <p>Turn simple APIs into powerful AI agents. stellar sits between your apps and AI services, making everything work together seamlessly.</p>
+  <h1>Weaving Precision into Decentralization</h1>
+  <p>Stellar Loom is an AI-driven decentralized oracle platform, meticulously designed to bridge the vast cosmos of real-world data with the precision of blockchain ecosystems. Leveraging cutting-edge artificial intelligence and a decentralized validator network, Stellar Loom ensures unrivaled data integrity, security, and scalability for the next era of decentralized finance (DeFi)</p>
 </div>
 
 <p align="center">
