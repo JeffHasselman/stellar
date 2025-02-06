@@ -11,29 +11,28 @@
 </div>
 
 <p align="center">
-  <a href="#why-stellar">Why stellar?</a> •
+  <a href="#why-stellar">Why Stellar Loom?</a> •
   <a href="#core-features">Features</a> •
   <a href="#quick-tour">Demos</a> •
   <a href="#get-started-in-5-minutes">Quick Start</a> •
   <a href="#advanced-usage">Advanced</a>
 </p>
 
-## ✨ Why stellar?
+## ✨ Why Stellar Loom?
 
-- **Zero Friction**: Drop it in and watch your apps talk to AI services naturally
-- **Smart Routing**: Your requests always reach the right AI model
-- **Rock-Solid**: Built to handle millions of requests without breaking a sweat
-- **See Everything**: Know exactly how your AI services perform
-- **Stay Protected**: Built-in shields against misuse and attacks
+- AI-driven, trustless, and highly secure decentralized oracles.
+- Ultra-fast, real-time data feeds for DeFi applications.
+- Seamless cross-chain interoperability across multiple blockchains.
+- Decentralized validation ensures accuracy and eliminates manipulation.
+- Adaptive AI optimization for minimal latency and maximum efficiency.
 
 ## 🚀 Core Features
 
-Built on proven foundations:
-- 🔄 Intelligent request routing and load balancing
-- ⚡️ Real-time function calling and API integration
-- 🛡️ Advanced prompt security and filtering
-- 🔁 Multi-model support with automatic failover
-- 📊 Complete observability with W3C tracing
+- AI-Powered Data Aggregation – Cleans, verifies, and refines data from multiple sources.
+- Decentralized Validation – Eliminates single points of failure and ensures trustless security.
+- Ultra-Low Latency – High-speed data feeds optimized for DeFi and automated trading.
+- Multi-Chain Compatibility – Seamless data integration across Ethereum, Solana, and more.
+- Advanced Security Framework – AI-driven anomaly detection and cryptographic safeguards.
 
 ## 🎯 Quick Tour
 
