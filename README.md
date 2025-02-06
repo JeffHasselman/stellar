@@ -1,4 +1,4 @@
-![stellar Logo](documentation/source/_static/img/stellar-gateway.jpg)
+![stellar Logo](documentation/source/_static/img/Stellar Loom Logo.jpg)
 
 <div align="center">
   
