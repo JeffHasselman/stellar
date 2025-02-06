@@ -3,7 +3,7 @@
 <div align="center">
   
   [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-stellargateway.com-2ea44f?style=for-the-badge)](https://stellargateway.com)
-  [![Twitter](https://img.shields.io/badge/Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stellargateway)
+  [![Twitter](https://img.shields.io/badge/Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Stellar_Loom))
   
   <h1>Weaving Precision into Decentralization</h1>
   <p>Stellar Loom is an AI-driven decentralized oracle platform, meticulously designed to bridge the vast cosmos of real-world data with the precision of blockchain ecosystems. Leveraging cutting-edge artificial intelligence and a decentralized validator network, Stellar Loom ensures unrivaled data integrity, security, and scalability for the next era of decentralized finance (DeFi)</p>
