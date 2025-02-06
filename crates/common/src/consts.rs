@@ -1,0 +1,23 @@
+pub const RATELIMIT_SELECTOR_HEADER_KEY: &str = "x-stellar -ratelimit-selector";
+pub const SYSTEM_ROLE: &str = "system";
+pub const USER_ROLE: &str = "user";
+pub const TOOL_ROLE: &str = "tool";
+pub const ASSISTANT_ROLE: &str = "assistant";
+pub const stellar_FC_REQUEST_TIMEOUT_MS: u64 = 120000; // 2 minutes
+pub const MODEL_SERVER_NAME: &str = "server";
+pub const stellar_ROUTING_HEADER: &str = "x-stellar -llm-provider";
+pub const MESSAGES_KEY: &str = "messages";
+pub const stellar_PROVIDER_HINT_HEADER: &str = "x-stellar -llm-provider-hint";
+pub const CHAT_COMPLETIONS_PATH: &str = "/v1/chat/completions";
+pub const HEALTHZ_PATH: &str = "/healthz";
+pub const stellar_STATE_HEADER: &str = "x-stellar -state";
+pub const stellar_FC_MODEL_NAME: &str = "stellar-Function-1.5B";
+pub const REQUEST_ID_HEADER: &str = "x-request-id";
+pub const TRACE_PARENT_HEADER: &str = "traceparent";
+pub const stellar_INTERNAL_CLUSTER_NAME: &str = "stellar _internal";
+pub const stellar_UPSTREAM_HOST_HEADER: &str = "x-stellar -upstream";
+pub const stellar_MODEL_PREFIX: &str = "stellar";
+pub const HALLUCINATION_TEMPLATE: &str =
+    "It seems I'm missing some information. Could you provide the following details ";
+pub const OTEL_COLLECTOR_HTTP: &str = "opentelemetry_collector_http";
+pub const OTEL_POST_PATH: &str = "/v1/traces";

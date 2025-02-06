@@ -1,0 +1,5 @@
+sphinx_copybutton==0.5.2
+sphinxawesome-theme
+sphinx_sitemap
+sphinx_design
+sphinxawesome_theme

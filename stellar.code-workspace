@@ -1,0 +1,56 @@
+{
+	"folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "crates",
+      "path": "crates"
+    },
+    {
+      "name": "stellar_cli",
+      "path": "stellar /tools"
+    },
+    {
+      "name": "server",
+      "path": "server"
+    },
+    {
+      "name": "tests_e2e",
+      "path": "tests/e2e"
+    },
+    {
+      "name": "tests_stellar",
+      "path": "tests/stellar"
+    },
+    {
+      "name": "tests_modelserver",
+      "path": "tests/modelserver"
+    },
+    {
+      "name": "chatbot_ui",
+      "path": "demos/shared/chatbot_ui"
+    }
+  ],
+  "settings": {
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.formatOnSave": true
+    },
+  },
+  "extensions": {
+    "recommendations": [
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "github.copilot",
+      "github.vscode-pull-request-github",
+      "humao.rest-client",
+      "ms-python.black-formatter",
+      "ms-python.debugpy",
+      "ms-python.python",
+      "rust-lang.rust-analyzer",
+      "tamasfe.even-better-toml",
+      ]
+  }
+}
